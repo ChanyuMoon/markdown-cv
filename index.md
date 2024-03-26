@@ -6,8 +6,8 @@ title: Chanyu Moon's CV
 Computational Neuroscientist, data scientist.
 
 <div id="webaddress">
-<a href="anscksdb0127@dgist.ac.kr">mail-work</a>
-<a href="moonchanyu@gmail.com">mail-personal</a>
+<a href="mailto: anscksdb0127@dgist.ac.kr">mail-work</a>
+<a href="mailto: moonchanyu@gmail.com">mail-personal</a>
 | <a href="https://chanyumoon.github.io/">Blog</a>
 <a href="https://github.com/ChanyuMoon">Github</a>
 </div>
