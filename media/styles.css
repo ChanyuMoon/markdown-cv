@@ -24,6 +24,10 @@ p {
     font-weight: 400; 
 }
 
+.contectlink {
+  color:red;
+}
+
 .category {
   font-size: 100%;
 }
