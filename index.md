@@ -1,53 +1,46 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chanyu Moon's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chanyu Moon | 문찬유
+Computational Neuroscientist, data scientist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="anscksdb0127@dgist.ac.kr">mail-work</a>
+<a href="moonchanyu@gmail.com">mail-personal</a>
+| <a href="https://chanyumoon.github.io/">Blog</a>
+<a href="https://github.com/ChanyuMoon">Github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Stated integrated MS/PhD course in DGIST
 
-### Specialized in
+<!-- ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Neuronal signal processing -->
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Neuromodulation, Connectomics.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2024.02 - now` __DGIST__, M.S PhD integrated (daegu · South Korea)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Major in Artificial Intellegence
 
-- Sizar
+`2020.02 - 2024.02` __DGIST__, B.S.
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- Major in Electrical Engineering and Computer Science
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2020` __Deans List__, DGIST
 
 
 
@@ -55,33 +48,39 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!-- ### Journals -->
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Conference
 
-`1669`
-Lectiones opticæ.
+`2022` Torque Estimation through sEMG sign
+al and Control of Upper Limb Exoskeleton Robot, __Conference on KRoC 2022__<br>Junhyun Park<sup>1*</sup>, <u>Chanyu Moon</u><sup>1*</sup>, Taewoo Lee<sup>1*</sup>, Minjong Kim<sup>1*</sup>, Hyunyun Shin<sup>1*</sup>, Seongjun Bae<sup>1*</sup>, Minho Hwang<sup>2†</sup>, Ji-Woong choi<sup>3†</sup><br>
 
-etc. etc. etc.
+*star means all equaly contributed.*
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+<!-- ### Patents -->
 
 
-## Occupation
+## Experiences
+### Internship
+`2023.07 - 2023.08` __Biophotonics Lab__, McMaster Univ. (Hamilton, Canada)
 
-`1600`
-__Royal Mint__, London
+- worked on smart watch data analysis for [Smart Home for Aging-in-PlacE(SHAPE)](http://wiki.mcmaster.ca/Biophotonics/public:research#smart_aging) project.
 
-- Warden
-- Minted coins
+`2022.06 - 2022.07`  __Signal Processing Lab__, DGIST
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Learned to analyze fNIRs, EEG data using Genereal Linearl Model(GLM).
+- Using topological activation map generated from EEG data by GLM, trained [EEG hand motion classifier](https://github.com/ChanyuMoon/motion_classification).
 
+### Competitions & Programs
+`2022.01 - 2022.12` __Undergraduate Research Program__, DGIST
+
+- Mainly Worked as a software team and developed torque estimation model for EMG base controled exoskeleton.
+
+`2022.03 - 2022.10` __International Collage Student creative car competition__
+
+- Mainly worked as a software team and developed realtime traffic light/road sign detection model using YOLO v5 & ROS. 
+
+<!-- ## Occupation -->
 
 
 <!-- ### Footer
