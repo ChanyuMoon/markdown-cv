@@ -62,6 +62,8 @@ al and Control of Upper Limb Exoskeleton Robot, __Conference on KRoC 2022__<br>J
 
 ## Experiences
 ### Internship
+`2023 winter` __Intelligence Augmentation Group__, DGIST
+
 `2023.07 - 2023.08` __Biophotonics Lab__, McMaster Univ. (Hamilton, Canada)
 
 - worked on smart watch data analysis for [Smart Home for Aging-in-PlacE(SHAPE)](http://wiki.mcmaster.ca/Biophotonics/public:research#smart_aging) project.
