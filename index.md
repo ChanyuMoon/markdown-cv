@@ -24,7 +24,7 @@ Neuronal signal processing -->
 
 ### Research interests
 
-Neuromodulation, Connectomics.
+Neuromodulation, Embedded systems.
 
 
 ## Education
@@ -68,7 +68,7 @@ al and Control of Upper Limb Exoskeleton Robot, __Conference on KRoC 2022__<br>J
 
 - worked on smart watch data analysis for [Smart Home for Aging-in-PlacE(SHAPE)](http://wiki.mcmaster.ca/Biophotonics/public:research#smart_aging) project.
 
-`2022.06 - 2022.07`  __Signal Processing Lab__, DGIST
+`2022.06 - 2022.07`  __Communications and Signal Processing Lab__, DGIST
 
 - Learned to analyze fNIRs, EEG data using Genereal Linearl Model(GLM).
 - Using topological activation map generated from EEG data by GLM, trained [EEG hand motion classifier](https://github.com/ChanyuMoon/motion_classification).
