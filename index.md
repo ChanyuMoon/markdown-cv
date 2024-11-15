@@ -3,7 +3,8 @@ layout: cv
 title: Chanyu Moon's CV
 ---
 # Chanyu Moon | 문찬유
-Computational Neuroscientist, data scientist.
+I'm interested in modulating the brain to discover brain functions.  
+To do so, I'm growing my expertise in __Signal processing, Neuroscience & Embedded systems__.
 
 <div id="webaddress">
 <a href="mailto: anscksdb0127@dgist.ac.kr">mail-work</a>
@@ -12,19 +13,9 @@ Computational Neuroscientist, data scientist.
 <a href="https://github.com/ChanyuMoon">Github</a>
 </div>
 
+## Research interests
 
-## Currently
-
-Stated integrated MS/PhD course in DGIST
-
-<!-- ### Specialized in
-
-Neuronal signal processing -->
-
-
-### Research interests
-
-Neuromodulation, Embedded systems, Brain dynamics.
+Brain dynamics, Neuromodulation
 
 
 ## Education
@@ -91,11 +82,19 @@ __International Collage Student creative car competition__
 
 - Mainly worked as a software team and developed realtime traffic light/road sign detection model using YOLO v5 & ROS. 
 
+## Skills 
+
+Machine Learning, Biosignal processing, Embedded systems.
+
+<!-- 직업 -->
 <!-- ## Occupation -->
 
 
-<!-- ### Footer
+<!-- ### Footer -->
 
-Last updated: May 2013 -->
+-----------------------  
+<footer>
+Last updated: November, 2024
+</footer>
 
 
