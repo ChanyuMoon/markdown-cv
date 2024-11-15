@@ -75,11 +75,11 @@ code {
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
-	position: absolute;
+	/* position: absolute; */
 }
 
 p code {
-	position: absolute;
+	/* position: absolute; */
 	left: -14%;
 }
 
