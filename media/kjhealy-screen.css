@@ -134,7 +134,7 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 1.2em;
 	color: #a00;
 	margin-top: 3em;
 	position: relative;
@@ -144,7 +144,7 @@ h2 {
 }
 
 h3 {
-	font-size: 1em;
+	font-size: 1.1em;
 	line-height: 2em; 
 	position: relative;
 	top: 1.7em;
@@ -167,7 +167,7 @@ a:hover {
 	left: 33%;
 	color: #a00;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 110%;
+	font-size: 130%;
 }
 
 #webaddress a {
@@ -187,6 +187,14 @@ strong {
 	display: none;
 }
 
+footer{
+	position: relative;
+	left: 33%;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-size: 80%;
+	color:#808080;
+}
 
 
 /*
